@@ -1,5 +1,5 @@
 public class GitPrac{
 	public static void main(String [] args) {
-		System.out.println("깃...")
+		System.out.println("깃...쏘 하드..")
 	}
 }
